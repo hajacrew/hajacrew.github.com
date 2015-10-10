@@ -7,10 +7,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 username: HAJACREW
 user_description: Anon Developer at Lorem Ipsum Dolor
 user_title: Security Researcher
-email: anon@anon.com
-twitter_username: lorem_ipsum
+email: mptstory@gmail.com
 github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
 # Build settings
