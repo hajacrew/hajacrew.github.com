@@ -4,9 +4,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site 
 
 # User settings
-username: Lorem Ipsum
+username: HAJACREW
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_title: Security Researcher
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
