@@ -1,15 +1,15 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: 본 블로그는 보안 연구 관련 블로그 입니다. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+url: "https://hajacrew.github.io" # the base hostname & protocol for your site 
 
 # User settings
 username: HAJACREW
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Security Researcher At NURILAB
 user_title: Security Researcher
 email: mptstory@gmail.com
-github_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+github_username: hajacrew
+disqus_username: hajacrew
 
 # Build settings
 markdown: kramdown
@@ -29,10 +29,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
+  - title: Security
+    url: /Security
   - title: About Me
     url: /about
 
